@@ -1,2 +1,2 @@
 # demo
-This is Archaean Pro Demo
+This is Archaean Pro (Demo)
